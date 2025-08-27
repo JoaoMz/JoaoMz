@@ -8,3 +8,10 @@ Desenvolvedor Python | Automação | Data Enthusiast
 ![Tkinter](https://img.shields.io/badge/-Tkinter-ff69b4?style=flat)
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=flat)
+
+![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitor&show_icons=true&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitor)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-ff69b4?style=flat)](https://joaovitor.dev)
+
+![Pac-Man](https://media.giphy.com/media/3o7TKP7Q0F6J0W1gxu/giphy.gif)
