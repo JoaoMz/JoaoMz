@@ -11,6 +11,4 @@ Desenvolvedor Python | Automação | Data Enthusiast
 
 ![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitor&show_icons=true&theme=radical)
 
-![Pac-Man](https://media.giphy.com/media/3o7TKP7Q0F6J0W1gxu/giphy.gif)
-
-![Happy Pac-Man](https://media.giphy.com/media/Chomping-Pac-Man/giphy.gif)
+![Pac-Man loop](https://media.giphy.com/media/1ntmKj2Ao7RCMvoeq2/giphy.gif)
