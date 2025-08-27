@@ -1,9 +1,10 @@
-### Olá sou o João Vitor! 🧑‍💻
+# Olá, eu sou João Vitor 👋
+Desenvolvedor Python | Automação | Data Enthusiast
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-212aa4222)
+💻 Apaixonado por resolver problemas e criar soluções práticas com código.
 
-![JMz GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomz&show_icons=true&theme=radical)
-
-## Tecnologias Utilizadas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠 Tecnologias
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Tkinter](https://img.shields.io/badge/-Tkinter-ff69b4?style=flat)
+![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=flat)
