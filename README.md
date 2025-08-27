@@ -1,7 +1,7 @@
 # Olá, eu sou João Vitor 👋
-Desenvolvedor Python | Automação | Data Enthusiast
+Desenvolvedor Python | Automação
 
-💻 Apaixonado por resolver problemas e criar soluções práticas com código.
+💻 Estudando PHP, HTML, MYSQL.
 
 ## 🛠 Tecnologias
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
