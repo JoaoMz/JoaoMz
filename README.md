@@ -1,7 +1,7 @@
 # Olá, eu sou João Vitor 👋
 Desenvolvedor Python | Automação
 
-💻 Estudando PHP, HTML, MYSQL.
+💻 Estudando PHP, HTML, MYSQL e Linux.
 
 ## 🛠 Tecnologias
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
