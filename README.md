@@ -10,6 +10,7 @@ Desenvolvedor Python | Automação
 ![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=flat)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaMz&show_icons=true)
+- [Perfil com contribuições](https://github.com/JoaoMz)
 
 <picture>
   <source
