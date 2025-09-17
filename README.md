@@ -9,7 +9,7 @@ Desenvolvedor Python | Automação
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=flat)
 
-![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMz&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaMz&show_icons=true)
 
 <picture>
   <source
