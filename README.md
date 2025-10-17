@@ -9,7 +9,10 @@ Desenvolvedor Python | Automação
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=flat)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaMz&show_icons=true)
+<div> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JoaoMz&show_icons=true&theme=transparent" /> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMz&layout=compact&theme=transparent" />
+</div>
 
 <picture>
   <source
